@@ -33,5 +33,16 @@ if vspeed > 10
 {                          
 vspeed=10
 }
+
+/Collision Event with Wall
+direction=directtion
+maximum=12
+vspeed = 0
 </head>
+
+<body>
+<p>//Object:Wall
+/Create Event
+solid = true</p>
+</body>
 </html>
