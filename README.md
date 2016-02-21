@@ -1,7 +1,12 @@
 # DragonCodePack
 <html>
 <head>
-"BRO"
-"EVERYONE AND THEIR MOMS"
+
+//Object: Bulky Knight
+
+//Create
+
+Hp = 100;
+
 </head>
 </html>
