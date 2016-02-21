@@ -27,8 +27,10 @@ invincible=false
 gravity=0.7
 gravity_direction=270
 
+/?/What does it do?
+
 if vspeed > 10
-{
+{                          
 vspeed=10
 }
 </head>
